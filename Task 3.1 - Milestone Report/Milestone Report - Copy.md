@@ -1,11 +1,6 @@
----
-title: "Milestone Report for Data Science Capstone Project"
-author: "Thawatchai Phakwithoonchai"
+# Milestone Report for Data Science Capstone Project
+> author: "Thawatchai Phakwithoonchai"  
 date: "4/13/2020"
-output: 
-        html_document:
-        keep_md: TRUE
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
